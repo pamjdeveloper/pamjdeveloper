@@ -6,7 +6,7 @@ I'm a Full Stack Developer!
 
 - 🔭 I’m currently looking for job opportunities.
 - 🌱 I’m currently learning TDD, Docker and Software Architecture.
-- 💬 Ask me about: C#, .NET, JavaScript, Vue.Js, SQL.
+- 💬 Ask me about: C#, .NET, JavaScript, Angular, Vue.Js, Node.Js, SQL.
   
 <p align="justify">
   <a href="https://github.com/pauloamjdeveloper/github-readme-stats">
